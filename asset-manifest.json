@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-bydget-calculator/static/css/main.28c6b7a1.css",
+    "main.js": "/react-bydget-calculator/static/js/main.9757ffd8.js",
+    "index.html": "/react-bydget-calculator/index.html",
+    "main.28c6b7a1.css.map": "/react-bydget-calculator/static/css/main.28c6b7a1.css.map",
+    "main.9757ffd8.js.map": "/react-bydget-calculator/static/js/main.9757ffd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28c6b7a1.css",
+    "static/js/main.9757ffd8.js"
+  ]
+}
